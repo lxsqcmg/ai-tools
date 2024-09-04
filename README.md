@@ -18,3 +18,16 @@
 
 对于那些对 AI 感兴趣但不知从何入手的人来说，AI 工具研习社无疑是一个很好的起点。无论你是想提高工作效率、增强创造力，还是仅仅出于好奇想探索 AI 的可能性，这个网站都可能为你提供有价值的信息和指导。
 
+## 最新 AI 工具&开源项目发掘
+
+- [5 个好用的 Github 开源 AI 图像生成项目](https://promptchoose.com/ai-tools/github-open-source-ai-image-generation-project-tool/)
+- [5 个热门的 Github 开源 AI 换脸项目](https://promptchoose.com/ai-tools/github-open-source-face-swap-project-tool/)
+- [10 个好用的 AI 换脸工具](https://promptchoose.com/ai-tools/ai-face-swapping-tool/)
+- [8 个好用的 AI 扩图工具](https://promptchoose.com/ai-tools/ai-image-extension-tools/)
+- [11 个好用的 AI 生成 PPT 工具](https://promptchoose.com/ai-tools/ai-generating-ppt-tool/)
+- [10 大热门开源 AI Agent 项目](https://promptchoose.com/ai-tools/github-open-source-ai-agent-project-overview/)
+- [10+ 热门 AI Agent 工具和平台](https://promptchoose.com/ai-tools/ai-agent-tools-and-platforms/)
+- [10 个好用的 VSCode AI 代码补全插件](https://promptchoose.com/ai-tools/vscode-ai-coding-assistant-with-autocomplete/)
+- [10 个 VSCode 中好用的 AI 编程插件](https://promptchoose.com/ai-tools/vscode-ai-programming-plugin/)
+- [10 个好用的 AI 编程工具](https://promptchoose.com/ai-tools/ai-programming-tools/)
+- [10+ 好用的 AI 图像生成工具](https://promptchoose.com/ai-tools/top-ai-image-generation-tool/)
