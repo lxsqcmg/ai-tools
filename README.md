@@ -1,6 +1,6 @@
 # AI 工具研习社
 
-[AI 工具研习社](https://promptchoose.com/ai-tools/) 收集一系列好用的 AI 工具，包括 AI 视频、AI 音频、[AI 编程](https://promptchoose.com/ai-tools/ai-programming-tools/)、AI 音乐生成、AI 绘画设计、AI 对话聊天、AI 写作工具、[AI 换脸工具](https://promptchoose.com/ai-tools/ai-face-swapping-tool/)、[AI 扩图工具](https://promptchoose.com/ai-tools/ai-image-extension-tools/)等。
+[AI 工具研习社](https://promptchoose.com/ai-tools/) 收集一系列好用的 AI 工具，包括 AI 视频、AI 音频、[AI 编程](https://promptchoose.com/ai-tools/ai-programming-tools/)、AI 音乐生成、[AI 绘画设计](https://promptchoose.com/ai-tools/top-ai-image-generation-tool/)、AI 对话聊天、AI 写作工具、[AI 换脸工具](https://promptchoose.com/ai-tools/ai-face-swapping-tool/)、[AI 扩图工具](https://promptchoose.com/ai-tools/ai-image-extension-tools/)等。
 
 在 AI 快速发展的今天，各种 AI 工具如雨后春笋般涌现。对于普通用户来说，如何在众多选择中找到最适合自己需求的 AI 工具成为了一个挑战。这就是 AI 工具研习社 网站的用武之地。
 
