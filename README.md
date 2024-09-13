@@ -38,3 +38,5 @@
 - [AI 换脸工具](https://jsnoteclub.com/blog/ai-face-swap-tool/)
 - [AI 扩图工具](https://jsnoteclub.com/blog/ai-image-expansion-tools/)
 - [AI 图像生成工具](https://jsnoteclub.com/blog/ai-image-generation-tools-and-website/)
+- [开源 AI 抠图工具](https://promptchoose.com/ai-tools/github-ai-background-remover/)
+- [AI 换装工具](https://promptchoose.com/ai-tools/ai-clothes-changer-tools/)
