@@ -85,3 +85,51 @@
 - [GitHub 开源 AI 虚拟女友](https://promptchoose.com/ai-tools/github-ai-girlfriend/)
 - [github issues](https://github.com/lxsqcmg/ai-tools/issues/1)
 - [博客园备份](https://www.cnblogs.com/jsnoteclub/p/18487300)
+
+[AI 工具箱](https://promptchoose.com/)
+
+[AI 工具箱导航](https://promptchoose.com/ai-tools)
+
+[好用的 Github 开源文本格式转换工具推荐](https://promptchoose.com/ai-tools/github-open-source-text-format-conversion-tools/)
+
+[Github开源图像设计稿转代码项目](https://promptchoose.com/ai-tools/github-open-source-image-design-draft-to-code/)
+
+[Github 开源 Markdown 编辑器](https://promptchoose.com/ai-tools/github-open-source-markdown-editor/)
+
+[Github 开源 AI 编程助手](https://promptchoose.com/ai-tools/github-open-source-ai-programming-assistant/)
+
+[Github 开源编程学习项目](https://promptchoose.com/ai-tools/github-open-source-programming-learning-project/)
+
+[免费 3D 模型库推荐](https://promptchoose.com/ai-tools/3d-model/)
+
+[Github 开源 PDF 编辑项目](https://promptchoose.com/ai-tools/github-open-source-pdf-editing-project/)
+
+[AI 老照片修复工具](https://promptchoose.com/ai-tools/ai-old-photo-restoration-tools/)
+
+[AI 图像放大工具](https://promptchoose.com/ai-tools/ai-big-tools/)
+
+[AI 图像背景去除工具](https://promptchoose.com/ai-tools/ai-remove-img-background-tools/)
+
+[AI 跨界电商工具](https://promptchoose.com/ai-tools/ai-cross-border-e-commerce/)
+
+[GitHub 开源笔记项目](https://promptchoose.com/ai-tools/github-open-source-notes-tools/)
+
+[高效笔记工具](https://promptchoose.com/ai-tools/note-tools/)
+
+[AI Logo 生成工具](https://promptchoose.com/ai-tools/ai-logo-generation-tools/)
+
+[AI 数据库管理和数据分析工具](https://promptchoose.com/ai-tools/ai-datebase-tools/)
+
+[免费电影下载网站](https://promptchoose.com/ai-tools/free-download-movies-site/)
+
+[免费漫画下载网站](https://promptchoose.com/ai-tools/free-comic-download-site/)
+
+[免费电子书下载网站推荐](https://promptchoose.com/ai-tools/free-books-download/)
+
+[AI 声音转文本 API 工具](https://promptchoose.com/ai-tools/speech-to-text-tools/)
+
+[AI 文档写作工具](https://promptchoose.com/ai-tools/ai-docs-writing/)
+
+[白板动画视频制作工具](https://promptchoose.com/ai-tools/whiteboard-animation-video-tools/)
+
+[Windows RSS 工具](https://promptchoose.com/ai-tools/windows-rss-tools/)
