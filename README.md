@@ -133,3 +133,17 @@
 [白板动画视频制作工具](https://promptchoose.com/ai-tools/whiteboard-animation-video-tools/)
 
 [Windows RSS 工具](https://promptchoose.com/ai-tools/windows-rss-tools/)
+
+
+[CasualGames](https://casualgames.games/)
+[休闲游戏](https://casualgames.games/zh)
+[カジュアルゲーム](https://casualgames.games/ja)
+[Animated Yin-Yang Symbol Game](https://casualgames.games/yinyang-game)
+[Christmas Tree Spinning Animation Game](https://casualgames.games/christmas-game)
+[Black and White Reversal Game](https://casualgames.games/black-white-reversal-game)
+[陰陽太極図アニメーションゲーム](https://casualgames.games/ja/yinyang-game)
+[クリスマスツリー回転アニメーションゲーム](https://casualgames.games/ja/christmas-game)
+[白黒反転ゲーム](https://casualgames.games/ja/black-white-reversal-game)
+[阴阳太极图动画游戏](https://casualgames.games/zh/yinyang-game)
+[圣诞树旋转动画游戏](https://casualgames.games/zh/christmas-game)
+[黑白颠倒动画游戏](https://casualgames.games/zh/black-white-reversal-game)
