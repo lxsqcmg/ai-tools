@@ -147,3 +147,44 @@
 [阴阳太极图动画游戏](https://casualgames.games/zh/yinyang-game)
 [圣诞树旋转动画游戏](https://casualgames.games/zh/christmas-game)
 [黑白颠倒动画游戏](https://casualgames.games/zh/black-white-reversal-game)
+
+[Generate Mock Data in 2 Minutes: A Quick Guide to Data Mocking](https://dev.to/auden/generate-mock-data-in-2-minutes-a-quick-guide-to-data-mocking-2bob)
+
+[Top 10 IntelliJ IDEA Plugins to Boost Development Efficiency in 2024](https://dev.to/auden/top-10-intellij-idea-plugins-to-boost-development-efficiency-in-2024-1o9o)
+
+[Quick and Easy: How to Test RESTful APIs in Java](https://dev.to/auden/quick-and-easy-how-to-test-restful-apis-in-java-ak9)
+
+[How to Test APIs Visually in IntelliJ IDEA?](https://dev.to/auden/how-to-test-apis-visually-in-intellij-idea-5388)
+
+[Top 10 HTTP Testing Tools for Mac in 2024](https://dev.to/auden/top-10-http-testing-tools-for-mac-in-2024-3m3b)
+
+[Hugging Face翻译模型](https://promptchoose.com/ai-tools/hugging-face-translation-model/)
+
+[Hugging Face图像生成模型](https://promptchoose.com/ai-tools/huggingface-image-generation-model/)
+
+[Github 开源 AI 修图工具](https://promptchoose.com/ai-tools/github-open-source-ai-inpainting-tools/)
+
+[Github 开源 AI 知识库](https://promptchoose.com/ai-tools/github-open-source-ai-knowledge-base/)
+
+[Github开源AI数字人](https://promptchoose.com/ai-tools/github-open-sources-ai-digital-human/)
+
+[Github开源AI证件照](https://promptchoose.com/ai-tools/github-open-source-ai-id-photo/)
+
+[Github 开源游戏](https://promptchoose.com/ai-tools/github-open-source-game-project/)
+
+[Github开源思维导图](https://promptchoose.com/ai-tools/github-open-source-mind-map/)
+
+[Github开源epub阅读器](https://promptchoose.com/ai-tools/github-open-source-epub-reader/)
+
+[Github开源rss阅读器](https://promptchoose.com/ai-tools/github-open-source-rss-reader/)
+
+[Github开源低代码](https://promptchoose.com/ai-tools/github-open-source-low-code-platform/)
+
+[Github开源图片查看器](https://promptchoose.com/ai-tools/github-open-source-image-viewer/)
+
+[Github开源pdf合并与分割](https://promptchoose.com/ai-tools/github-open-source-pdf-merger-and-split-tool/)
+
+[Github开源excel图表格](https://promptchoose.com/ai-tools/github-open-source-excel-chart-project/)
+
+[Github开源高级简历](https://promptchoose.com/ai-tools/github-open-source-senior-resume/)
+
